@@ -1,6 +1,6 @@
 ![Abstract placeholder header](assets/images/placeholder_header-4x1.png)
 
-# Nainoa Faulkner-Jackson
+//# Nainoa Faulkner-Jackson
 
 `[Professional title and primary technical focus]`
 
