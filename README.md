@@ -1,7 +1,5 @@
 ![Abstract placeholder header](assets/images/placeholder_header-4x1.png)
 
-//# Nainoa Faulkner-Jackson
-
 `[Professional title and primary technical focus]`
 
 [A concise introduction to the work you do and the problems you care about.]
