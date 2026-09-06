@@ -1,32 +1,32 @@
 ![Abstract placeholder header](assets/images/placeholder_header-4x1.png)
 
-`Software Engineer with a focus in simulation and other real time systems.`
+`Software Engineer focused on simulation and other real-time systems.`
 
-I'm passionate about artificial life simulations, and designing software to make creating and running those simulations possible.  
-I strongly believe in robust software architecture, even in the modern day of AI assisted coding. 
+I'm passionate about artificial life simulations and designing software that makes creating and running those simulations possible.
+I strongly believe in robust software architecture, even in the modern era of AI-assisted coding.
 
 ## More About Me
-- **Portfolio** [In Progress!] <!-- Once the Portfolio actually exists, link here. -->
-- **Resume:** [A current resume link will be added here.] <!-- I'll probably wan to host the resume on the portfolio site, so that I can update it in one place without having to update the link here.-->
-- **Professional contact:** [LinkedIn and other appropriate contact details will be added here.] <!-- Linked in link: https://www.linkedin.com/in/nainoa-faulkner-jackson/ - you can handle this one.-->
+- **Portfolio:** [Under construction] <!-- Once the portfolio exists, link here. -->
+- **Resume:** [Hosting under construction; available on request.] <!-- The resume will likely be hosted on the portfolio site, so its link can be updated in one place. -->
+- **Professional contact:** [LinkedIn](https://www.linkedin.com/in/nainoa-faulkner-jackson/)
 
 ## Featured Projects
 
 ### Particularity
 
-**Particularity is a Particle based physics simulation and playback editor**
+**Particularity is a particle-based physics simulation and playback editor.**
 
-Particularity was initially created in an attempt to design an engine for running highly optimized physics and artificial life simulations on consumer grade hardware. It targets MacOS, and uses Metal to leverage the GPU for massive parallelized physics calculations. Since its inception, it's expanded to include playback features for complex data sets, allowing it to be used as a versatile data visualization tool, as well as a simulator.
+Particularity was initially created to design an engine for highly optimized physics and artificial life simulations on consumer-grade hardware. It targets macOS and uses Metal to leverage the GPU for massively parallel physics calculations. Since its inception, it has expanded to include playback features for complex datasets, allowing it to serve as a versatile data-visualization tool as well as a simulator.
 
-**Project materials:** [Repository link, and representative visuals will be added when ready.]
+**Project materials:** [Repository link and representative visuals will be added when ready.]
 
 ### Harbormaster
 
-**Harbormaster is intended to streamline and simplify project management and tracking, both of human and AI**
+**Harbormaster is a tool to streamline and simplify project management and tracking for both people and AI agents.**
 
-Harbormaster is a Visual Studio Code extension that acts as a central hub for task tracking, context management, and project management. It's intended to simplify interacting with projects for both human and AI agents. By storing important project context in designated locations, it allows easy handoff between different coding agents. It also allows window customization to allow the user to tell, at a glance, what project they're working on.
+Harbormaster is a Visual Studio Code extension that serves as a central hub for task tracking, context management, and project coordination. It is intended to simplify project interaction for both people and AI agents. By storing important project context in designated locations, it enables easy handoffs between people and coding agents. It also supports window customization, allowing users to identify at a glance which project they are working on.
 
-**Project materials:** [Repository link here] <!-- maybe some visuals? The thing is there really isn't much to look at for Harbormaster, it's not intended to be a visual thing.>
+**Project materials:** [Repository link here]
 
 ## Technical Stack
 
