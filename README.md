@@ -26,9 +26,14 @@ Harbormaster is a Visual Studio Code extension that serves as a central hub for 
 
 ## Technical Focus
 
-- **Simulation and visual computing:** macOS, Metal, GPU-parallel computation, physics simulation, artificial life, and data playback.
-- **Developer tooling:** Visual Studio Code extension development, project context, task tracking, and human/AI agent workflows.
-- **Engineering practice:** Architecture-led, AI-native development, with an emphasis on clear project context, validation, and maintainable systems.
+### Simulation and Real-Time Systems
+Physics simulation, artificial life, GPU computation, and data playback.
+
+### Developer Tools and Workflows
+Tools for project context, task tracking, human/AI collaboration, and coding-agent handoffs.
+
+### Software Architecture
+Architecture-led, AI-native development with an emphasis on maintainable systems and clear project context.
 
 <!--
 Drafting principles:
