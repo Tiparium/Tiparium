@@ -24,13 +24,11 @@ Particularity was initially created to design an engine for highly optimized phy
 
 Harbormaster is a Visual Studio Code extension that serves as a central hub for task tracking, context management, and project coordination. It is intended to simplify project interaction for both people and AI agents. By storing important project context in designated locations, it enables easy handoffs between people and coding agents. It also supports window customization, allowing users to identify at a glance which project they are working on.
 
-## Technical Stack
+## Technical Focus
 
-[This will be a compact, evidence-based view of the technologies represented in the featured work.]
-
-- **Application development:** [To be specified.]
-- **Developer tooling and workflow:** [To be specified.]
-- **Other relevant domains:** [To be specified.]
+- **Simulation and visual computing:** macOS, Metal, GPU-parallel computation, physics simulation, artificial life, and data playback.
+- **Developer tooling:** Visual Studio Code extension development, project context, task tracking, and human/AI agent workflows.
+- **Engineering practice:** Architecture-led, AI-native development, with an emphasis on clear project context, validation, and maintainable systems.
 
 <!--
 Drafting principles:
