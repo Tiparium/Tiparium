@@ -12,21 +12,17 @@ I strongly believe in robust software architecture, even in the modern era of AI
 
 ## Featured Projects
 
-### Particularity
+### [Particularity](https://github.com/Tiparium/Particularity)
 
-**Particularity is a particle-based physics simulation and playback editor.**
+**A particle-based physics simulation and playback editor.**
 
 Particularity was initially created to design an engine for highly optimized physics and artificial life simulations on consumer-grade hardware. It targets macOS and uses Metal to leverage the GPU for massively parallel physics calculations. Since its inception, it has expanded to include playback features for complex datasets, allowing it to serve as a versatile data-visualization tool as well as a simulator.
 
-**Project materials:** [Repository link and representative visuals will be added when ready.]
+### [Harbormaster](https://github.com/Tiparium/Harbormaster)
 
-### Harbormaster
-
-**Harbormaster is a tool to streamline and simplify project management and tracking for both people and AI agents.**
+**A toolset to streamline and simplify project management and tracking for both people and AI agents.**
 
 Harbormaster is a Visual Studio Code extension that serves as a central hub for task tracking, context management, and project coordination. It is intended to simplify project interaction for both people and AI agents. By storing important project context in designated locations, it enables easy handoffs between people and coding agents. It also supports window customization, allowing users to identify at a glance which project they are working on.
-
-**Project materials:** [Repository link here]
 
 ## Technical Stack
 
