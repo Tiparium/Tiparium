@@ -33,7 +33,7 @@ Physics simulation, artificial life, GPU computation, and data playback.
 Tools for project context, task tracking, human/AI collaboration, and coding-agent handoffs.
 
 ### Software Architecture
-Architecture-led, AI-native development with an emphasis on maintainable systems and clear project context.
+Architecture-led, AI-native development with an emphasis on modular, maintainable code.
 
 <!--
 Drafting principles:
