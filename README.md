@@ -2,7 +2,7 @@
 
 `Software Engineer focused on simulation and other real-time systems.`
 
-I'm passionate about artificial life simulations and designing software that makes creating and running those simulations possible.
+I'm passionate about artificial life simulations and designing software that makes creating and running those simulations possible.\
 I strongly believe in robust software architecture, even in the modern era of AI-assisted coding.
 
 ## More About Me
