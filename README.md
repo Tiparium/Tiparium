@@ -1,4 +1,4 @@
-![Nainoa Faulkner-Jackson](assets/images/Tiparium_Guthub_Header_V01.gif)
+![Nainoa Faulkner-Jackson](assets/images/Tiparium_Guthub_Header_V02.gif)
 
 `Software Engineer focused on simulation and other real-time systems.`
 
