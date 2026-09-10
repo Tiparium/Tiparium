@@ -1,4 +1,8 @@
-![Nainoa Faulkner-Jackson](assets/images/Tiparium_Guthub_Header_V05.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tiparium/Tiparium/main/assets/images/Tiparium_Guthub_Header_V05.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tiparium/Tiparium/main/assets/images/Tiparium_Guthub_Header_V05_LightMode.gif">
+  <img alt="Nainoa Faulkner-Jackson" src="https://raw.githubusercontent.com/Tiparium/Tiparium/main/assets/images/Tiparium_Guthub_Header_V05_LightMode.gif">
+</picture>
 
 `Software Engineer focused on simulation and other real-time systems.`
 
